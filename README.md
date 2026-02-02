@@ -19,7 +19,8 @@ Fox Engine is part of a broader project in development – a larger system for e
 
 ## Screenshot
 
-*(Insert a nice screenshot of the editor here)*
+<img width="1876" height="1156" alt="Screenshot from 2026-02-02 10-39-44" src="https://github.com/user-attachments/assets/6a52cbe5-8f44-4249-8155-bd9c8f441cc1" />
+
 
 ---
 
