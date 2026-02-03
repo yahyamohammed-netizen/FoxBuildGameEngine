@@ -1,0 +1,3 @@
+/home/yahya/CLionProjects/foxbuild/cmake-build-debug/CMakeFiles/foxbuild.dir
+/home/yahya/CLionProjects/foxbuild/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yahya/CLionProjects/foxbuild/cmake-build-debug/CMakeFiles/rebuild_cache.dir
