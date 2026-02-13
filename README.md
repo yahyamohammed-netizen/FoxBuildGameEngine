@@ -24,9 +24,9 @@ Fox Engine is part of a broader project in development – a larger system for e
 
 ---
 
-## Build Instructions (Linux)
+## Build Instructions 
 
-1. Clone the repository:
+1. Clone the repository and build it:
 
 ```bash
 git clone https://github.com/yahyamohammed-netizen/OpenForge/
