@@ -29,5 +29,10 @@ Fox Engine is part of a broader project in development – a larger system for e
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/foxengine.git
-cd foxengine
+git clone https://github.com/yahyamohammed-netizen/OpenForge/
+cd OpenForge
+mkdir build && cd build
+cmake -G Ninja ..
+ninja
+./OpenForge
+
